@@ -52,7 +52,14 @@ to be completed
 
 ## Get in Touch
 
+[Institute of Synthetic Biology](https://isynbio.siat.ac.cn/)  
+
+Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
+
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:wanze.chen@epfl.ch)
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wanzechen)  
+[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wanzechen)
+ 
+[Google Scholar: Wanze Chen] (https://scholar.google.com/citations?user=iM7Db-wAAAAJ&hl=en) 
+
 
 
