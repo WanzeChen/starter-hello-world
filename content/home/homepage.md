@@ -7,7 +7,7 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 
-title: "👋 Hollie Beau is the Chief Data Officer at Tidbit Games in Shanghai."
+title: "Welcome to Wanze Chen's page"
 subtitle: ""
 
 design:
@@ -32,9 +32,9 @@ advanced:
   css_class: fullscreen
 ---
 
-## My Mission
+## Research interest
 
-Use this area to speak to your mission. Maecenas a varius odio egestas auctor. Praesent facilisis, ex a gravida ultricies, quam sed magna placerat eros, et vehicula lectus ligula id dui. Aliquam uto cursus velit ut eros lorem ipsum ullamcorper iaculis.
+Single cell biology, Live-seq, stem cell
 
 ## Specialties
 
