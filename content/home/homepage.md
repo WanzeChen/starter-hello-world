@@ -57,7 +57,12 @@ Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
 
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:wanze.chen@epfl.ch)
 [{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wanzechen)
-[{{< icon name="ai-google-scholar-square" pack="ai" >}}Google Scholar](https://scholar.google.com/citations?user=iM7Db-wAAAAJ&hl=en)
+[{{< icon name="arxiv" pack="ai" >}}Google Scholar](https://scholar.google.com/citations?user=iM7Db-wAAAAJ&hl=en)
 
 Google Scholar:[Wanze Chen](https://scholar.google.com/citations?user=iM7Db-wAAAAJ&hl=en)
+
+{{< icon name="arxiv" pack="ai" >}} ArXiv
+{{< icon name="google-scholar" pack="ai" >}} Google Scholar
+
+
 
