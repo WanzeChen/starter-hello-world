@@ -42,11 +42,11 @@ My lab in SIAT will be established in early July, 2021. We are looking for gradu
 
 ## Experience and Education
 
-### Postdoc • Feb 2015 - Current • EPFL, Switzerland
+#### Postdoc • Feb 2015 - Current • EPFL, Switzerland
 
 to be completed
 
-### PhD in Biochemistry and molecular biology  • Jan 2007 - Jan 2013 • Xiamen University, China
+#### PhD in Biochemistry and molecular biology  • Jan 2007 - Jan 2013 • Xiamen University, China
 
 to be completed
 
@@ -54,5 +54,5 @@ to be completed
 
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:wanze.chen@epfl.ch)
 [{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wanzechen)  
-[//]: # {{< icon name="weixin" pack="fab" >}}微信用户名  
+
 
