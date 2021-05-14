@@ -32,38 +32,30 @@ advanced:
   css_class: fullscreen
 ---
 
-## Research interest
+## Research interests
 
-Single cell biology, Live-seq, stem cell
+To be completed
 
-## Specialties
+## We are recruiting! 
 
-Analytics & Data, Leadership, Programming, Strategic Planning, Writing & Editing
+My lab in SIAT will be established in early July, 2021. We are looking for graduate students, postdocs and research assistants. Candidates with any expertise of or interested in molecular biology, genetics/genomics, bioinformatics, system biology, microfluidic and animal model are welcome to apply! 
 
-## Experience
+## Experience and Education
 
-### Tidbit Games
-#### Chief Data Officer • Jan 2015 - Current • Shanghai
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### Postdoc • Feb 2015 - Current • EPFL, Switzerland
 
+to be completed
 
-### AI Soup
-#### Research Manager • Jan 2010 - Jan 2015 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+### PhD in Biochemistry and molecular biology  • Jan 2007 - Jan 2013 • Xiamen University, China
 
-## Education
-
-### Tsinghua University
-#### PhD AI • Jan 2005 - Jan 2010 • Beijing
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
+to be completed
 
 ## Get in Touch
 
-[{{< icon name="envelope" pack="fas" >}}Email](mailto:me@example.com)
-[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wowchemy)  
-{{< icon name="weixin" pack="fab" >}}微信用户名  
+[{{< icon name="envelope" pack="fas" >}}Email](mailto:wanze.chen@epfl.ch)
+[{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wanzechen)  
+# {{< icon name="weixin" pack="fab" >}}微信用户名  
 
-## Credits
+# ## Credits
 
-[Demo background image](https://unsplash.com/photos/mNSOLgnDGzA)
+# [Demo background image](https://unsplash.com/photos/mNSOLgnDGzA)
