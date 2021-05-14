@@ -42,24 +42,21 @@ My lab in SIAT will be established in early July, 2021. We are looking for gradu
 
 ## Experience and Education
 
-#### Postdoc â€¢ Feb 2015 - Current â€¢ EPFL, Switzerland
+#### Postdoc ¥ Feb 2015 - Current ¥ EPFL, Switzerland
 
 to be completed
 
-#### PhD in Biochemistry and molecular biology  â€¢ Jan 2007 - Jan 2013 â€¢ Xiamen University, China
+#### PhD in Biochemistry and molecular biology  ¥ Jan 2007 - Jan 2013 ¥ Xiamen University, China
 
 to be completed
 
 ## Get in Touch
 
 [Institute of Synthetic Biology](https://isynbio.siat.ac.cn/)  
-
 Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences
 
 [{{< icon name="envelope" pack="fas" >}}Email](mailto:wanze.chen@epfl.ch)
 [{{< icon name="twitter" pack="fab" >}}Twitter](https://twitter.com/wanzechen)
- 
-[Google Scholar: Wanze Chen] (https://scholar.google.com/citations?user=iM7Db-wAAAAJ&hl=en) 
-
+Google Scholar:[Wanze Chen](https://scholar.google.com/citations?user=iM7Db-wAAAAJ&hl=en)
 
 
